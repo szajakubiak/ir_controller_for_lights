@@ -10,4 +10,4 @@
 ## TODO
 * Complete Hardware section
 * Add Software section
-* Add comments to code
+* Add code to dump remote commands
