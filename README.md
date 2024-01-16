@@ -9,5 +9,6 @@
 
 ## TODO
 * Complete Hardware section
+* Add connection diagram
 * Add Software section
 * Add code to dump remote commands
