@@ -3,7 +3,7 @@
 #include "LowPower.h"
 
 // infrared emitter pin
-#define IR_SEND_PIN 5
+#define IR_SEND_PIN 10
 // door switch pin
 #define INTERRUPT_PIN 3
 
